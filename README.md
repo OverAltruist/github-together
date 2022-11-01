@@ -49,7 +49,7 @@
 // Прапор --no-ff змушує Git завжди створювати новий об'єкт комміта під час злиття, навіть якщо злиття може бути здійснене алгоритмом fast-forward. Це дозволяє не втрачати інформацію про те, що гілка існувала і групує разом усі внесені зміни.  
 
 Візуалізація:
-[![git-merge](/images/git-mergen.pngimages)]
+![git-merge](/images/git-mergen.png)
 
 ***
 | [Джерело 1](https://habr.com/ru/post/106912/) | [Джерело 2](https://git-scm.com/book/ru/v2/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-Git-%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5) | [Джерело 3](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow) |
