@@ -25,3 +25,13 @@
     margin: 0 auto;
     margin-top:27px;    
 }
+.b-head
+{
+    height:36px;
+}
+    
+
+.b-head__logo
+{
+    float: left;    
+}
