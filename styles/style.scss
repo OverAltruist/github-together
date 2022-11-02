@@ -86,7 +86,7 @@
 }
 .b-menu
 {
-    margin:0;
+    margin:0 auto;
     padding:0;
     list-style:none; 
     width:60%;
@@ -98,13 +98,13 @@
 .b-link_menu
 {
     text-align:center;
-    color:#000000;
+    color:#ffffff;
     cursor:pointer;
     font-size:14px;
     height:38px;
-    background-color:#F3F3F3;
+    background-color:#464646;
     line-height:38px;
-    border: 1px solid #F3F3F3;
+    border: 1px solid #464646;
     display:table-cell;
     text-decoration: none;
     border-radius: 0px 0px 0px 0px
